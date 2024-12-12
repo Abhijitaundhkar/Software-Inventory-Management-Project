@@ -1,4 +1,6 @@
-# Inventory Management
+# Software Inventory Management
 
-#add delete update software
-#hapiJs typescript postgreSql
+All design code and optimized code are provided
+
+#opertions: add delete update software etc
+#Technology: HapiJs Typescript PostgreSql Nodejs
